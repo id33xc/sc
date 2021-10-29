@@ -1,0 +1,88 @@
+
+
+
+
+
+
+<!-- tukangdepes@protonmail.com -->
+
+<html>
+<head>
+<title>pwnd by kuroaMEpiKAcyu~AnonSec</title>
+<link rel="icon" type="image/png" href="https://i.ibb.co/L8HvBHg/IMG-20210805-143712.jpg"/>
+<meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:title" content="Pwned by kuroaMEpiKAcyu">
+<meta name="description" content="Security? We say it's hentai">
+<meta property="og:description" content="anonSec">
+<meta property="og:site_name" content="Unknown45">
+<meta property="og:type" content="website">
+<meta name="copyright"content="Have Fun">
+<meta name="theme-color" content="#000">
+<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+
+</style>
+<body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
+<link rel="stylesheet" href="https://bit.ly/2UGCIC5">
+<body bgcolor=white text=black><center><br><br><font face=courier size=2>-= AnonSec =-</font><br><br>
+<img src="https://i.ibb.co/G2GLX72/20210921-145847.png" width=330 height=300><br><br><br>
+<font face=courier>hacked by <font color=red><b>kuroaMEpiKAcyu</b></font><br><font color=red size=2><i><font class="title motto-shake">magical of system</i><br><br><small></font></b><font color="lime" size="5" face=courier>
+<font color="black">Manusia lahir dengan membawa hawa nafsu, dan mereka di berikan 2 pilihan </br>menjadi binatang karena di kuasai hawa nafsu atau menjadi malaikat yang mampu mengontrol hawa nafsu.</font><br>	
+	<br><font size=1 color=#383333>contac me : <a href ="mailto:pikacyukuroame@gmail.com">click me</a></font><br><center><font size="0"><p><audio src="https://www.bki.co.id/SPI/upload/Gustian.mp3" autoplay controls></audio></p><center><div class="footer-greetings">
+<audio autoplay>
+<source src="https://b.top4top.io/m_1954d7g3"> 
+</audio>
+<br><br><br><br>
+<center><font color="red">- we are -</font></center>
+<div class="footer-greetings"><marquee>
+<font color="white"><font face=courier size=2><b>Greetz : <i></b><font color=white>Anon7 - L4N4N9_4K1R4 - /Rayzky_ - ./meicookies - exa_gans77 - VenoRyan - MR.HAGAN_4040CR4ZY - PohonSagu - ./s3nt1n3L - DemonArmy - FarisGanss - KosameAmegai - CompuByte - B3bek_Gans - Mr.Froggy - K4TSUY4-GH05T - Malaikat Hati - He4l3rz - PsychoH4xor - Mr.Grim - ChokkaXploiter - Algisec1337 - Jamet1337 - MungielL - Nzxsx7 - ./G1L4N6_ST86 - <font color="red">kuroaMEpiKAcyu </font>- X-5L0W - QueryRi - UnknownSec- RizeChan1337
+</i><font color=black></marquee>
+<script language=JavaScript>
+<!--
+ 
+//Disable right mouse click Script
+//By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
+//For full source code, visit http://www.dynamicdrive.com
+ 
+var message="what's wrong ?";
+ 
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+ 
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+ 
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+ 
+document.oncontextmenu=new Function("alert(message);return false")
+ 
+// -->
+</script>
+<script>(function(c,a,d){var b=function(f,e){this.el=a.querySelectorAll(f)[0];this.config=e||{};this.lyric=e.lyric||"";this.newLyric="";this.showUpSpeed=e.showUpSpeed||0;this.flashSpeed=e.flashSpeed||0;this.flashTimeout=e.flashTimeout||0;this.showOut()};b.prototype={showOut:function(){var f=this,g=0,e,h="";if(f.flashSpeed){f.newLyric=e=f.replaceFun(f.lyric,f.lyric.split(""))}else{f.newLyric=e=f.lyric}if(f.showUpSpeed){var j=setInterval(function(){h+=e.split("")[g];g++;f.newLyric=h;f.el.innerHTML=h;f.el.dataset.text=h;if(f.lyric.split("").length===g){clearInterval(j);setTimeout(function(){f.flash(f.newLyric)},f.flashTimeout)}},f.showUpSpeed)}else{f.el.innerHTML=e;f.el.dataset.text=e;setTimeout(function(){f.flash(f.newLyric)},f.flashTimeout)}},replaceFun:function(f,e){return f.split("").map(function(h){var g=e.filter(function(j,i){return e.indexOf(j)==i});return h=g[Math.floor((Math.random()*g.length))]}).join("")},flash:function(){var f=this,e=f.lyric.split(""),h=f.newLyric.split(""),g=f.flashSpeed;var i=setInterval(function(){if(h.join("")!==e.join("")){for(var j in e){if(h[j]!==e[j]){var k=e.filter(function(m,l){return e.indexOf(m)==l});h[j]=k[Math.floor((Math.random()*k.length))];f.el.innerHTML=f.el.dataset.text=h.join("")}}}else{clearInterval(i);f.callback()}},g)},callback:function(){if(this.config.callback){this.config.callback()}}};if(typeof module==="object"&&typeof module.exports==="object"){module.exports=exports=b}else{if(typeof define==="function"&&define.amd){define(function(){return b})}else{if(typeof c==="object"){c.Motto=b}}}})(window,document);
+var motto = new Motto('.title', {
+lyric: "magical of system",
+showUpSpeed: 85,
+flashSpeed: 70,
+flashTimeout: 1000,
+callback: function () {
+}
+});
+</script>
