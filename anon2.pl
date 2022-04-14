@@ -9,7 +9,7 @@ sub Wait {
 $SIG{CHLD} = \&Wait;
 
 my $server = IO::Socket::INET->new(
-	LocalPort 	=> 1945,	# set port
+	LocalPort 	=> 1337,	# set port
 	Type 		=> SOCK_STREAM,
 	Reuse 		=> 1,
 	Listen 		=> 10) or die "$@\n";
